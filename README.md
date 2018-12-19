@@ -11,7 +11,7 @@ Lendformal is a website where users can lend and rent out their formal clothing.
 ## Application Screenshots
 ![Overview](img/lfp1.PNG)
 
-![Overview](img/lfp15.PNG)
+![Overview](img/lfp15.png)
 
 ![Overview](img/lfp3.PNG)
 
