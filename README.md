@@ -4,16 +4,17 @@
 
 Lendformal is a website where users can lend and rent out formal clothing. It is built with [Python][0] using the [Django Web Framework][1].
 
-## Project Design
-![Overview](img/design.PNG)
 
 ## Application Features
-![Overview](img/lfp1.PNG)
+![Overview](img/lfp1.png)
 
 ![Overview](img/lfp15.PNG)
 
 ![Overview](img/lfp3.PNG)
 
+
+## Project Design
+![Overview](img/design.PNG)
 
 ## Installation - Quick start
 
