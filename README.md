@@ -2,17 +2,20 @@
 
 # Lendformal
 
-Lendformal is a _short description_. It is built with [Python][0] using the [Django Web Framework][1].
+Lendformal is a website where users can lend and rent out their formal clothing. It is built with [Python][0] using the [Django Web Framework][1].
 
-This project has the following basic apps:
+## Project Design
 
-* App1 (short desc)
-* App2 (short desc)
-* App3 (short desc)
+![Overview](img/design.PNG)
 
-## Installation
+## Application Screenshots
+![Overview](img/lfp1.PNG)
 
-### Quick start
+![Overview](img/lfp15.PNG)
+
+![Overview](img/lfp3.PNG)
+
+## Installation - Quick start
 
 To set up a development environment quickly, first install Python 3. It
 comes with virtualenv built-in. So create a virtual env by:
